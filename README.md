@@ -24,7 +24,7 @@
 
 <h3 align="left">👨‍💻 Projects & Contact</h3>
 <ul>
-  <li>All of my projects are available at <a href="[https://github.com/fahadmahmud81]">GitHub</a></li>
+  <li>All of my projects are available at <a href="https://github.com/fahadmahmud81?tab=repositories" target="_blank">GitHub</a></li>
   <li>💬 Ask me about anything</li>
   <li>📫 How to reach me: <strong>fahadmahmud.icte@gmail.com</strong></li>
   <li>📄 Know about my experiences: <a href="https://arupchakraborty.netlify.app/">Portfolio</a></li>

@@ -19,7 +19,7 @@
 
 <h3 align="left">🌱 Current Focus</h3>
 <p align="left">
-  I’m currently working on an <strong>IoT</strong>-based project using <strong>Spring Boot, Java EE, and AngularJS</strong> at 
+  I’m currently working on an <strong>IoT</strong>-based project using <strong>Flutter</strong> at 
  <a href="https://www.tekshilpa.com" target="_blank" style="text-decoration: none;">TekShilpa Limited</a>
  and also doing <strong>Competitive Programming</strong>.
 </p>

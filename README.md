@@ -18,9 +18,7 @@
 <h3 align="left">🌱 Current Focus</h3>
 <p align="left">
   I'm currently working at <a href="https://www.tekshilpa.com" target="_blank" style="text-decoration: none;">TekShilpa Limited</a>, helping convert various <strong> IoT </strong>strong> projects into mobile apps using <strong> Flutter </strong>strong>, while learning new technologies and tackling new challenges along the way.
-  I'm currently working at TekShilpa Limited, <strong>IoT</strong>-based project using <strong>Flutter</strong> at 
- <a href="https://www.tekshilpa.com" target="_blank" style="text-decoration: none;">TekShilpa Limited</a>
- and also doing <strong>Competitive Programming</strong>.
+ 
 </p>
 
 <h3 align="left">👨‍💻 Projects & Contact</h3>

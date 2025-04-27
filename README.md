@@ -8,9 +8,9 @@
 
 
 <p align="left">
-  <a href="https://twitter.com/arupcha01935516" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/arupcha01935516?logo=twitter&style=for-the-badge" alt="Follow on Twitter" />
-  </a>
+ <a href="https://www.youtube.com/@fahad.mahmud" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=YouTube&message=Subscribe&color=FF0000&logo=youtube&logoColor=FFFFFF&style=for-the-badge" alt="Subscribe on YouTube" />
+</a>
 </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">

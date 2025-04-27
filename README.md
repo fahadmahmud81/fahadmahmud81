@@ -26,7 +26,7 @@
   <li>All of my projects are available at <a href="https://github.com/fahadmahmud81?tab=repositories" target="_blank">GitHub</a></li>
   <li>💬 Ask me about anything</li>
   <li>📫 How to reach me: <strong>fahadmahmud.icte@gmail.com</strong></li>
-  <li>📄 Know about my experiences: <a href="https://arupchakraborty.netlify.app/">Portfolio</a></li>
+
 </ul>
 
 <hr />
@@ -36,7 +36,7 @@
 <ul>
   <li>
     <h4>Junior Flutter Developer</h4>
-    <p><strong>TekShilpa Limited</strong> — <em>October 2024 - Present</em></p>
+    <p><strong>TekShilpa Limited</strong> — <em>April 2024 - Present</em></p>
     <p>• Developing innovative solutions using Java Spring Boot, Angular, and other technologies to optimize performance and user experience.</p>
   </li>
   <br/>

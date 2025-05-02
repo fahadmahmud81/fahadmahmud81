@@ -46,7 +46,7 @@
 </ul>
 
 
-
+<hr>
   
 <h3 align="left">🎓Education</h3>
 -Gazipur Digital University, B.Sc. in Educational Technology and Engineering.

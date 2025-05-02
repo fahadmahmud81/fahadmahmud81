@@ -53,73 +53,39 @@
 
 <h3 align="left">📚Training</h3>
 
-- Java2EE in BJIT
+- App Development -OSTAD platform
 
-- Web Development(MERN)in Programming Hero
-
-
-- Front-End_Mastery in DIUCPC
+  
 <hr>
 
 <h3 align="left">🗃️Project</h3>
 
-- <a href="https://github.com/arup99-glitch/evaluation-management-system-springboot">Evaluation Management System</a>
+- <a href="https://github.com/fahadmahmud81/nex_event_app">Nex Event App</a>
 
-  <h6>Technology Used:Spring Boot,Spring Security,JPA,JSON Web Tokens (JWT),Gradle,MySQL,ReactJS,React Bootstrap,CSS,MUI</h6>
+  <h6>Technology Used: Flutter, Firebase, Android Studio, ImageBB </h6>
           
   
-- <a href="https://girls-world-9147f.web.app/">Girls World</a>
+- <a href="https://github.com/fahadmahmud81/ClubSync_">ClubSync Website</a>
  
-  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Bootstrap,Express,MongoDB,MUI</h6>
+  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router, Tailwind,MongoDB</h6>
 
-- <a href="https://carnava-by-arup.netlify.app/">Carvana-website</a>
+- <a href="https://carnava-by-arup.netlify.app/">BDUCMS - JavaFX GUI</a>
 
-  <h6>Technology Used: React JS, NodeJS, Firebase Auth, React Router,React Bootstrap,Express,MongoDB</h6>
+  <h6>Technology Used: Java, JavaFX, MySQL </h6>
 
 
-
-<hr>
-<h3 align="left">📝 Blogs and writing</h3>
-
-- <a href="https://medium.com/@arupchakraborty153">Medium<a>
- 
 
 <hr>
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/arupcha01935516" target="_blank">
+<!--   <a href="https://twitter.com/arupcha01935516" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=1DA1F2&logo=twitter&logoColor=FFFFFF" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/arup-chakraborty-425b73221" target="_blank">
+  </a> -->
+  <a href="https://www.linkedin.com/in/fahadmahmudofficial/">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
   </a>
-  <a href="https://stackoverflow.com/users/19351108" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Stack%20Overflow&color=FE7A16&logo=stackoverflow&logoColor=FFFFFF" alt="Stack Overflow"/>
-  </a>
-  <a href="https://fb.com/arup.chakraborty.108889" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Facebook&color=1877F2&logo=facebook&logoColor=FFFFFF" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/arup_chakra_borty" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=FFFFFF" alt="Instagram"/>
-  </a>
-  <a href="https://www.codechef.com/users/arupchakrabort" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=CodeChef&color=5B4638&logo=codechef&logoColor=FFFFFF" alt="CodeChef"/>
-  </a>
-  <a href="https://www.hackerrank.com/arupchakraborty3" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=HackerRank&color=2EC866&logo=hackerrank&logoColor=FFFFFF" alt="HackerRank"/>
-  </a>
-  <a href="https://codeforces.com/profile/aru_p" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Codeforces&color=1F8ACB&logo=codeforces&logoColor=FFFFFF" alt="Codeforces"/>
-  </a>
-  <a href="https://www.leetcode.com/arupchakraborty153" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=LeetCode&color=FFA116&logo=leetcode&logoColor=FFFFFF" alt="LeetCode"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/arupchakra2wv9" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=GeeksforGeeks&color=0F9D58&logo=geeksforgeeks&logoColor=FFFFFF" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://discord.gg/Arup#6375" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF" alt="Discord"/>
-  </a>
+ 
+
 </p>
 
 
@@ -127,31 +93,19 @@
 <h2 align="left">💻 Skills</h2>
 
 ### Languages
-![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
-![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=java&label=)
-![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
-![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=f0db4f&logo=JavaScript&label=&)
-
-### Backend
-![Spring Boot](https://img.shields.io/static/v1?&message=Spring%20Boot&color=6DB33F&logo=spring&logoColor=white&label=)
-![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=Node.js&label=&)
+![Dart](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
+![Flutter](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=java&label=)
+![Java](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+![Python](https://img.shields.io/static/v1?&message=JavaScript&color=f0db4f&logo=JavaScript&label=&)
 
 
 ### Database
 ![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
-![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=336791&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?&message=MongoDB&color=47A248&logo=MongoDB&label=&)
 ![Firebase](https://img.shields.io/static/v1?&message=Firebase&color=FFCA28&logo=Firebase&label=&)
 
-### Frontend
-![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
-![React](https://img.shields.io/static/v1?&message=React&color=000000&logo=react&logoColor=66bced&label=)
-![AngularJS](https://img.shields.io/static/v1?&message=AngularJS&color=DD0031&logo=AngularJS&label=&)
-![Bootstrap](https://img.shields.io/static/v1?&message=Bootstrap&color=5f0b7a&logo=bootstrap&logoColor=FFFFFF&label=)
-
 
 ### Tools
-![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 ![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
 ![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
 ![Kubernetes](https://img.shields.io/static/v1?message=Kubernetes&color=326CE5&logo=kubernetes&logoColor=white&label=)
@@ -166,23 +120,7 @@
 ![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
 
 
-<hr>
-<h3 align="left">📊Github Stats</h3>
 
-<p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arup99-glitch&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
- <br/>
-  <p align = "center">
-    <a href="https://github.com/fahadmahmud81/github-readme-stats"><img alt="Arup Chakrabortyr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=arup99-glitch&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/fahadmahmud81/github-readme-stats"><img alt="Arup Chakrabortyr's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arup99-glitch&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-   <p>
-  <br/>
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=fahadmahmud81&theme=algolia&no-bg=true&no-frame=true">
-</div>
 
 

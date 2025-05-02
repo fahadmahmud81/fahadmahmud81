@@ -16,10 +16,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Guy" width="300" height="300">
 
 <h3 align="left">🌱 Current Focus</h3>
-<p align="left">
-  I'm currently working at <a href="https://www.tekshilpa.com" target="_blank" style="text-decoration: none;">TekShilpa Limited</a>, helping convert various <strong> IoT </strong>  projects into mobile apps using <strong> Flutter </strong>, while learning new technologies and tackling new challenges along the way.
- 
-</p>
+
 
 <h3 align="left">👨‍💻 Projects & Contact</h3>
 <ul>

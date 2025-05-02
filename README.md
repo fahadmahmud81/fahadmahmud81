@@ -95,9 +95,9 @@
 
 ### Languages
 ![Dart](https://img.shields.io/static/v1?&message=Dart%2B%2B&color=1e5aba&logo=Dart%2B%2B&label=&)
-![Flutter](https://img.shields.io/static/v1?&message=flutter&color=c93618&logo=flutter&label=)
-![Java](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
-![Python](https://img.shields.io/static/v1?&message=JavaScript&color=f0db4f&logo=JavaScript&label=&)
+![Flutter](https://img.shields.io/static/v1?&message=Flutter&color=c93618&logo=flutter&label=)
+![Java](https://img.shields.io/static/v1?&message=Java&color=176587&logo=java&logoColor=f5f589&label=&)
+![Python](https://img.shields.io/static/v1?&message=Python&color=f0db4f&logo=python&label=&)
 
 
 ### Database

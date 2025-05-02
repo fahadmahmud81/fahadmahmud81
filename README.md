@@ -31,24 +31,24 @@
 
 <h3 align="left">💻 Work Experience</h3>
 <ul>
-  <li>
+<!--   <li>
     <h4>Junior Flutter Developer</h4>
     <p><strong>TekShilpa Limited</strong> — <em>April 2024 - Present</em></p>
     <p>• Developing innovative solutions using Java Spring Boot, Angular, and other technologies to optimize performance and user experience.</p>
-  </li>
+  </li> -->
   <br/>
-  <li>
+<!--   <li>
     <h4>Trainee Software Engineer</h4>
     <p><strong>BJIT Academy</strong> — <em>April 2023 - September 2023</em></p>
     <p>• Gained hands-on experience with Java development, Spring framework, and database integration, enhancing skills in backend development.</p>
-  </li>
+  </li> -->
 </ul>
 
 
 <hr>
   
 <h3 align="left">🎓Education</h3>
--Daffodil International University, B.Sc. in Computer Science and Engineering
+-Gazipur Digital University, B.Sc. in Educational Technology and Engineering.
 <hr>
 
 <h3 align="left">📚Training</h3>

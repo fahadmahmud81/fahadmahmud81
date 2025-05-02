@@ -29,7 +29,8 @@
 <hr />
 
 
-<h3 align="left">💻 Work Experience</h3>
+
+
 <ul>
 <!--   <li>
     <h4>Junior Flutter Developer</h4>
